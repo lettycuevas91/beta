@@ -5,10 +5,10 @@ function App() {
   return (
     <div>
      <h1>
-     hola mundo
+     Mi primera aplicación
     </h1>
     <p>
-    soy leticia 
+    Esta es mi primera aplicación en React, está padrísimo!
     </p>
     </div>
   );
